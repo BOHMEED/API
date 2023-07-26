@@ -1,0 +1,18 @@
+
+body{
+    background-color: #a78295;
+}
+.card{
+    background-color: #331d2c9b;
+    width: 30%;
+    color: #fff;
+    padding: 15px;
+}
+.cardlist{
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 20px;
+    row-gap: 20px;
+    width: 90%;
+    margin: 40px auto;
+}
